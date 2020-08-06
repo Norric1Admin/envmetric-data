@@ -13,7 +13,7 @@ prose:
       - name: "sdg_goal"
         field:
             element: hidden
-            label: "SDG Goal"
+            label: "Area"
             translation_key: metadata_fields.sdg_goal
             scope: page
       - name: "permalink"
@@ -32,13 +32,13 @@ prose:
       - name: "indicator_name"
         field:
             element: text
-            label: "Indicator name"
+            label: "Metric name"
             translation_key: metadata_fields.indicator_name
             scope: global
       - name: "indicator_number"
         field:
             element: hidden
-            label: "Indicator number"
+            label: "Metric number"
             translation_key: metadata_fields.indicator
             scope: global
       - name: "target_name"
@@ -56,7 +56,7 @@ prose:
       - name: "indicator_definition"
         field:
             element: textarea
-            label: "Global indicator description"
+            label: "Global metric description"
             translation_key: metadata_fields.indicator_definition
             scope: global
       - name: "un_designated_tier"
@@ -88,13 +88,13 @@ prose:
       - name: "national_indicator_available"
         field:
             element: text
-            label: "Indicator available"
+            label: "Metric available"
             translation_key: metadata_fields.national_indicator_available
             scope: national
       - name: "national_indicator_description"
         field:
             element: text
-            label: "Indicator description"
+            label: "Metric description"
             translation_key: metadata_fields.national_indicator_description
             scope: national
       - name: "national_geographical_coverage"
@@ -184,21 +184,25 @@ prose:
             options:
               - name: 'complete'
                 value: 'complete'
+                label: "Published"
                 translation_key: status.reported_online
-              - name: 'inprogress'
-                value: 'inprogress'
-                translation_key: status.statistics_in_progress
+#              - name: 'inprogress'
+#                value: 'inprogress'
+#                label: "In Progress"
+#                translation_key: status.statistics_in_progress
               - name: 'notstarted'
                 value: 'notstarted'
+                label: "Not Published"
                 translation_key: status.exploring_data_sources
-              - name: 'notapplicable'
-                value: 'notapplicable'
-                translation_key: status.not_applicable
+#              - name: 'notapplicable'
+#                value: 'notapplicable'
+#                label: "N/A"
+#                translation_key: status.not_applicable
             scope: data
       - name: data_non_statistical
         field:
             element: checkbox
-            label: Non-statistical indicator
+            label: Non-statistical metric
             translation_key: metadata_fields.data_non_statistical
             help: Check this box if this indicator does not have numeric data associated with it
             value: false
@@ -242,7 +246,7 @@ prose:
       - name: "indicator_sort_order"
         field:
             element: text
-            label: "Indicator display order (within Goal page)"
+            label: "Metric display order (within Area page)"
             translation_key: metadata_fields.indicator_sort_order
             scope: data
       ######### Chart Info #########
