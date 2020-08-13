@@ -105,8 +105,6 @@ map_layers:
     id_property: lad16cd
     output_subfolder: local_authorities
     filename_prefix: indicator_
- 
- https://opendata.arcgis.com/datasets/1d78d47c87df4212b79fe2323aae8e08_0.geojson
 
 # Documentation settings
 # ----------------------
