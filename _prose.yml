@@ -44,13 +44,13 @@ prose:
       - name: "target_name"
         field:
             element: text
-            label: "Target name"
+            label: "Topic name"
             translation_key: metadata_fields.target
             scope: global
       - name: "target_id"
         field:
             element: text
-            label: "Target number"
+            label: "Topic number"
             translation_key: metadata_fields.target_id
             scope: global
       - name: "indicator_definition"
