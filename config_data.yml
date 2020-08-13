@@ -95,7 +95,7 @@ map_layers:
  -  geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/1d78d47c87df4212b79fe2323aae8e08_0.geojson
     name_property: lad19cd
     id_property: lad19cd
-    output_subfolder: local authority
+    output_subfolder: local_authorities
     filename_prefix: indicator_
  
  https://opendata.arcgis.com/datasets/1d78d47c87df4212b79fe2323aae8e08_0.geojson
