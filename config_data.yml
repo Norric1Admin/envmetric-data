@@ -86,12 +86,19 @@ reporting_status_extra_fields: []
 # below and adjust if you would like to use the Open SDG mapping functionality.
 # Note that the GeoJSON files can either be remote (as in the example below) or
 # local, relative to the src_dir specified above.
-#map_layers:
-#  - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4.geojson
-#    name_property: rgn17nm
-#    id_property: rgn17cd
-#    output_subfolder: regions
-#    filename_prefix: indicator_
+map_layers:
+  - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4.geojson
+    name_property: rgn17nm
+    id_property: rgn17cd
+    output_subfolder: regions
+    filename_prefix: indicator_
+ -  geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/1d78d47c87df4212b79fe2323aae8e08_0.geojson
+    name_property: lad19cd
+    id_property: lad19cd
+    output_subfolder: local_authorities
+    filename_prefix: indicator_
+ 
+ https://opendata.arcgis.com/datasets/1d78d47c87df4212b79fe2323aae8e08_0.geojson
 
 # Documentation settings
 # ----------------------
