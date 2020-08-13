@@ -87,14 +87,22 @@ reporting_status_extra_fields: []
 # Note that the GeoJSON files can either be remote (as in the example below) or
 # local, relative to the src_dir specified above.
 map_layers:
+#Country (https://hub.arcgis.com/datasets/c362832ce5d14728a6fb2b079525be0b_4/data)
+  - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/c362832ce5d14728a6fb2b079525be0b_4.geojson
+    name_property: ctry17nm
+    id_property: ctry17cd
+    output_subfolder: country
+    filename_prefix: indicator_
+#Region (link: https://hub.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4)
   - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4.geojson
     name_property: rgn17nm
     id_property: rgn17cd
     output_subfolder: regions
     filename_prefix: indicator_
- -  geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/1d78d47c87df4212b79fe2323aae8e08_0.geojson
-    name_property: lad19cd
-    id_property: lad19cd
+#Local Authority (link: https://hub.arcgis.com/datasets/686603e943f948acaa13fb5d2b0f1275_4)
+  - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/686603e943f948acaa13fb5d2b0f1275_4.geojson
+    name_property: lad16nm
+    id_property: lad16cd
     output_subfolder: local_authorities
     filename_prefix: indicator_
  
