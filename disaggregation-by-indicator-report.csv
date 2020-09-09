@@ -4,4 +4,5 @@ Indicator,Disaggregations,Number of disaggregations
 #3-5-2,Industry sector,1
 #4-3-1,"Country, Status classification, Water body category",3
 #5-1-1,Material category,1
-#5-4-8,"Sustainably managed status, Country",2
+#5-4-8,"Country, Sustainably managed status",2
+#5-5-1,"Country, Energy category, Energy sub-category",3
