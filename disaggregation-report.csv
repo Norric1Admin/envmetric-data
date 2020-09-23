@@ -1,11 +1,10 @@
 Disaggregation,Number of indicators,Number of values
 Category,1,2
 Country,3,4
-Energy category,1,6
-Energy sub-category,1,17
-Industry sector,1,20
+Group,11,2
+Industry sector,2,20
 Local Authority,1,359
 Material category,1,4
 Status classification,1,2
-Sustainably managed status,1,1
+Sustainably managed status,2,1
 Water body category,1,3
