@@ -1,3 +1,69 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,Units,Observation status,Unit multiplier,Unit measure
+2000,100.0,Percentage of population with access to clean fuels and technologies for cooking,Undefined,Units,Percentage (%)
+2001,100.0,Percentage of population with access to clean fuels and technologies for cooking,Undefined,Units,Percentage (%)
+2002,100.0,Percentage of population with access to clean fuels and technologies for cooking,Undefined,Units,Percentage (%)
+2003,100.0,Percentage of population with access to clean fuels and technologies for cooking,Undefined,Units,Percentage (%)
+2004,100.0,Percentage of population with access to clean fuels and technologies for cooking,Undefined,Units,Percentage (%)
+2005,100.0,Percentage of population with access to clean fuels and technologies for cooking,Undefined,Units,Percentage (%)
+2006,100.0,Percentage of population with access to clean fuels and technologies for cooking,Undefined,Units,Percentage (%)
+2007,100.0,Percentage of population with access to clean fuels and technologies for cooking,Undefined,Units,Percentage (%)
+2008,100.0,Percentage of population with access to clean fuels and technologies for cooking,Undefined,Units,Percentage (%)
+2009,100.0,Percentage of population with access to clean fuels and technologies for cooking,Undefined,Units,Percentage (%)
+2010,100.0,Percentage of population with access to clean fuels and technologies for cooking,Undefined,Units,Percentage (%)
+2011,100.0,Percentage of population with access to clean fuels and technologies for cooking,Undefined,Units,Percentage (%)
+2012,100.0,Percentage of population with access to clean fuels and technologies for cooking,Undefined,Units,Percentage (%)
+2013,100.0,Percentage of population with access to clean fuels and technologies for cooking,Undefined,Units,Percentage (%)
+2014,100.0,Percentage of population with access to clean fuels and technologies for cooking,Undefined,Units,Percentage (%)
+2015,100.0,Percentage of population with access to clean fuels and technologies for cooking,Undefined,Units,Percentage (%)
+2016,100.0,Percentage of population with access to clean fuels and technologies for cooking,Undefined,Units,Percentage (%)
+1990,0.7,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+1991,0.7,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+1992,0.7,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+1993,0.8,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+1994,1.0,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+1995,1.1,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+1996,1.1,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+1997,1.2,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+1998,1.3,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+1999,1.3,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+2000,1.4,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+2001,1.4,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+2002,1.6,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+2003,1.7,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+2004,1.9,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+2005,2.2,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+2006,2.3,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+2007,2.5,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+2008,3.0,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+2009,3.6,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+2010,3.9,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+2011,4.5,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+2012,4.9,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+2013,5.9,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+2014,7.2,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+2015,8.6,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+2016,9.0,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+2017,10.1,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+2018,11.4,Percentage of total energy consumption from renewable sources,Undefined,Units,Percentage (%)
+2008,234972.28100000002,Number of air passengers (thousands),Undefined,Thousands,Number
+2009,217738.755,Number of air passengers (thousands),Undefined,Thousands,Number
+2010,210294.00600000002,Number of air passengers (thousands),Undefined,Thousands,Number
+2011,218998.803,Number of air passengers (thousands),Undefined,Thousands,Number
+2012,220428.27300000002,Number of air passengers (thousands),Undefined,Thousands,Number
+2013,228246.23,Number of air passengers (thousands),Undefined,Thousands,Number
+2014,238249.68600000002,Number of air passengers (thousands),Undefined,Thousands,Number
+2015,251329.68899999998,Number of air passengers (thousands),Undefined,Thousands,Number
+2016,268330.985,Number of air passengers (thousands),Undefined,Thousands,Number
+2017,284397.095,Number of air passengers (thousands),Undefined,Thousands,Number
+2018,292065.291,Number of air passengers (thousands),Undefined,Thousands,Number
+2008,2324.7892269999998,Volume of air freight (thousand tonnes),Undefined,Thousands,Tonnes
+2009,2281.726932,Volume of air freight (thousand tonnes),Undefined,Thousands,Tonnes
+2010,2047.5135239999997,Volume of air freight (thousand tonnes),Undefined,Thousands,Tonnes
+2011,2324.471423,Volume of air freight (thousand tonnes),Undefined,Thousands,Tonnes
+2012,2297.316193,Volume of air freight (thousand tonnes),Undefined,Thousands,Tonnes
+2013,2302.1079219999997,Volume of air freight (thousand tonnes),Undefined,Thousands,Tonnes
+2014,2262.256617,Volume of air freight (thousand tonnes),Undefined,Thousands,Tonnes
+2015,2304.349653,Volume of air freight (thousand tonnes),Undefined,Thousands,Tonnes
+2016,2299.2130039999997,Volume of air freight (thousand tonnes),Undefined,Thousands,Tonnes
+2017,2409.832211,Volume of air freight (thousand tonnes),Undefined,Thousands,Tonnes
+2018,2640.336523,Volume of air freight (thousand tonnes),Undefined,Thousands,Tonnes
