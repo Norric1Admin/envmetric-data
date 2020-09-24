@@ -1,3 +1,37 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,Units,GeoCode,Observation status,Unit multiplier,Unit measure
+2001,0.248281235,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
+2002,0.18060100699999998,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
+2003,0.177817333,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
+2004,0.17873261699999998,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
+2005,0.167987725,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
+2006,0.172379106,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
+2007,0.200414096,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
+2008,0.211517801,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
+2009,0.22449431,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
+2010,0.231629355,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
+2011,0.140642151,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
+2012,0.144958803,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
+2013,0.17033014300000002,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
+2014,0.12367473400000001,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
+2015,0.067374487,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
+2016,0.090782623,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
+2017,0.11064847800000001,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
+2018,0.09642090800000001,"Rate per 100,000 population",,Undefined,Units,"Rate per 100,000 population"
+2001,130.0,Deaths,,Undefined,Units,Number of Deaths
+2002,95.0,Deaths,,Undefined,Units,Number of Deaths
+2003,94.0,Deaths,,Undefined,Units,Number of Deaths
+2004,95.0,Deaths,,Undefined,Units,Number of Deaths
+2005,90.0,Deaths,,Undefined,Units,Number of Deaths
+2006,93.0,Deaths,,Undefined,Units,Number of Deaths
+2007,109.0,Deaths,,Undefined,Units,Number of Deaths
+2008,116.0,Deaths,,Undefined,Units,Number of Deaths
+2009,124.0,Deaths,,Undefined,Units,Number of Deaths
+2010,129.0,Deaths,,Undefined,Units,Number of Deaths
+2011,79.0,Deaths,,Undefined,Units,Number of Deaths
+2012,82.0,Deaths,,Undefined,Units,Number of Deaths
+2013,97.0,Deaths,,Undefined,Units,Number of Deaths
+2014,71.0,Deaths,,Undefined,Units,Number of Deaths
+2015,39.0,Deaths,,Undefined,Units,Number of Deaths
+2016,53.0,Deaths,,Undefined,Units,Number of Deaths
+2017,65.0,Deaths,,Undefined,Units,Number of Deaths
+2018,57.0,Deaths,,Undefined,Units,Number of Deaths

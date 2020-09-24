@@ -1,10 +1,12 @@
 Disaggregation,Number of indicators,Number of values
 Category,1,2
-Country,1,4
+Cause of death,4,5
+Country,5,5
 Flight category,1,2
-Group,6,2
+Group,2,2
 Industry sector,1,20
 Local Authority,1,359
 Material category,2,5
+Sex,4,2
 Status classification,1,2
 Water body category,1,3

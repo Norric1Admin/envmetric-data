@@ -1,7 +1,379 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Country,Sex,Cause of death,Observation status,Unit multiplier,Unit measure,Units,GeoCode,Value
+2001,,,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.248281235
+2002,,,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.18060100699999998
+2003,,,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.177817333
+2004,,,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.17873261699999998
+2005,,,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.167987725
+2006,,,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.172379106
+2007,,,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.200414096
+2008,,,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.211517801
+2009,,,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.22449431
+2010,,,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.231629355
+2011,,,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.140642151
+2012,,,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.144958803
+2013,,,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.17033014300000002
+2014,,,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.12367473400000001
+2015,,,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.067374487
+2016,,,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.090782623
+2017,,,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.11064847800000001
+2018,,,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.09642090800000001
+2001,,Male,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.25025164
+2002,,Male,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.202270738
+2003,,Male,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.16631785699999999
+2004,,Male,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.19606248899999998
+2005,,Male,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.167718733
+2006,,Male,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.17402258899999998
+2007,,Male,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.187483117
+2008,,Male,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.17462822100000003
+2009,,Male,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.18804144899999997
+2010,,Male,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.248422363
+2011,,Male,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.159203191
+2012,,Male,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.150843734
+2013,,Male,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.19964921600000002
+2014,,Male,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.130767413
+2015,,Male,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.063036584
+2016,,Male,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.110976406
+2017,,Male,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.161950278
+2018,,Male,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.099263224
+2001,,Female,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.24639994699999998
+2002,,Female,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.159886815
+2003,,Female,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.188825045
+2004,,Female,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.162122884
+2005,,Female,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.168245831
+2006,,Female,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.170800375
+2007,,Female,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.212855582
+2008,,Female,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.247069195
+2009,,Female,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.259661054
+2010,,Female,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.21539786800000002
+2011,,Female,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.12266373800000001
+2012,,Female,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.13925437400000001
+2013,,Female,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.141873259
+2014,,Female,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.11678173
+2015,,Female,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.071597664
+2016,,Female,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.07107498799999999
+2017,,Female,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.060558466
+2018,,Female,,Undefined,Units,"Rate per 100,000 population","Rate per 100,000 population",,0.09364373699999999
+2001,,,,Undefined,Units,Number of Deaths,Deaths,,130.0
+2002,,,,Undefined,Units,Number of Deaths,Deaths,,95.0
+2003,,,,Undefined,Units,Number of Deaths,Deaths,,94.0
+2004,,,,Undefined,Units,Number of Deaths,Deaths,,95.0
+2005,,,,Undefined,Units,Number of Deaths,Deaths,,90.0
+2006,,,,Undefined,Units,Number of Deaths,Deaths,,93.0
+2007,,,,Undefined,Units,Number of Deaths,Deaths,,109.0
+2008,,,,Undefined,Units,Number of Deaths,Deaths,,116.0
+2009,,,,Undefined,Units,Number of Deaths,Deaths,,124.0
+2010,,,,Undefined,Units,Number of Deaths,Deaths,,129.0
+2011,,,,Undefined,Units,Number of Deaths,Deaths,,79.0
+2012,,,,Undefined,Units,Number of Deaths,Deaths,,82.0
+2013,,,,Undefined,Units,Number of Deaths,Deaths,,97.0
+2014,,,,Undefined,Units,Number of Deaths,Deaths,,71.0
+2015,,,,Undefined,Units,Number of Deaths,Deaths,,39.0
+2016,,,,Undefined,Units,Number of Deaths,Deaths,,53.0
+2017,,,,Undefined,Units,Number of Deaths,Deaths,,65.0
+2018,,,,Undefined,Units,Number of Deaths,Deaths,,57.0
+2001,England and Wales,Male,,Undefined,Units,Number of Deaths,Deaths,K04000001,64.0
+2002,England and Wales,Male,,Undefined,Units,Number of Deaths,Deaths,K04000001,52.0
+2003,England and Wales,Male,,Undefined,Units,Number of Deaths,Deaths,K04000001,43.0
+2004,England and Wales,Male,,Undefined,Units,Number of Deaths,Deaths,K04000001,51.0
+2005,England and Wales,Male,,Undefined,Units,Number of Deaths,Deaths,K04000001,44.0
+2006,England and Wales,Male,,Undefined,Units,Number of Deaths,Deaths,K04000001,46.0
+2007,England and Wales,Male,,Undefined,Units,Number of Deaths,Deaths,K04000001,50.0
+2008,England and Wales,Male,,Undefined,Units,Number of Deaths,Deaths,K04000001,47.0
+2009,England and Wales,Male,,Undefined,Units,Number of Deaths,Deaths,K04000001,51.0
+2010,England and Wales,Male,,Undefined,Units,Number of Deaths,Deaths,K04000001,68.0
+2011,England and Wales,Male,,Undefined,Units,Number of Deaths,Deaths,K04000001,44.0
+2012,England and Wales,Male,,Undefined,Units,Number of Deaths,Deaths,K04000001,42.0
+2013,England and Wales,Male,,Undefined,Units,Number of Deaths,Deaths,K04000001,56.0
+2014,England and Wales,Male,,Undefined,Units,Number of Deaths,Deaths,K04000001,37.0
+2015,England and Wales,Male,,Undefined,Units,Number of Deaths,Deaths,K04000001,18.0
+2016,England and Wales,Male,,Undefined,Units,Number of Deaths,Deaths,K04000001,32.0
+2017,England and Wales,Male,,Undefined,Units,Number of Deaths,Deaths,K04000001,47.0
+2018,England and Wales,Male,,Undefined,Units,Number of Deaths,Deaths,K04000001,29.0
+2001,England and Wales,Female,,Undefined,Units,Number of Deaths,Deaths,K04000001,66.0
+2002,England and Wales,Female,,Undefined,Units,Number of Deaths,Deaths,K04000001,43.0
+2003,England and Wales,Female,,Undefined,Units,Number of Deaths,Deaths,K04000001,51.0
+2004,England and Wales,Female,,Undefined,Units,Number of Deaths,Deaths,K04000001,44.0
+2005,England and Wales,Female,,Undefined,Units,Number of Deaths,Deaths,K04000001,46.0
+2006,England and Wales,Female,,Undefined,Units,Number of Deaths,Deaths,K04000001,47.0
+2007,England and Wales,Female,,Undefined,Units,Number of Deaths,Deaths,K04000001,59.0
+2008,England and Wales,Female,,Undefined,Units,Number of Deaths,Deaths,K04000001,69.0
+2009,England and Wales,Female,,Undefined,Units,Number of Deaths,Deaths,K04000001,73.0
+2010,England and Wales,Female,,Undefined,Units,Number of Deaths,Deaths,K04000001,61.0
+2011,England and Wales,Female,,Undefined,Units,Number of Deaths,Deaths,K04000001,35.0
+2012,England and Wales,Female,,Undefined,Units,Number of Deaths,Deaths,K04000001,40.0
+2013,England and Wales,Female,,Undefined,Units,Number of Deaths,Deaths,K04000001,41.0
+2014,England and Wales,Female,,Undefined,Units,Number of Deaths,Deaths,K04000001,34.0
+2015,England and Wales,Female,,Undefined,Units,Number of Deaths,Deaths,K04000001,21.0
+2016,England and Wales,Female,,Undefined,Units,Number of Deaths,Deaths,K04000001,21.0
+2017,England and Wales,Female,,Undefined,Units,Number of Deaths,Deaths,K04000001,18.0
+2018,England and Wales,Female,,Undefined,Units,Number of Deaths,Deaths,K04000001,28.0
+2001,England,,,Undefined,Units,Number of Deaths,Deaths,E92000001,120.0
+2002,England,,,Undefined,Units,Number of Deaths,Deaths,E92000001,84.0
+2003,England,,,Undefined,Units,Number of Deaths,Deaths,E92000001,91.0
+2004,England,,,Undefined,Units,Number of Deaths,Deaths,E92000001,88.0
+2005,England,,,Undefined,Units,Number of Deaths,Deaths,E92000001,88.0
+2006,England,,,Undefined,Units,Number of Deaths,Deaths,E92000001,90.0
+2007,England,,,Undefined,Units,Number of Deaths,Deaths,E92000001,102.0
+2008,England,,,Undefined,Units,Number of Deaths,Deaths,E92000001,112.0
+2009,England,,,Undefined,Units,Number of Deaths,Deaths,E92000001,114.0
+2010,England,,,Undefined,Units,Number of Deaths,Deaths,E92000001,115.0
+2011,England,,,Undefined,Units,Number of Deaths,Deaths,E92000001,73.0
+2012,England,,,Undefined,Units,Number of Deaths,Deaths,E92000001,81.0
+2013,England,,,Undefined,Units,Number of Deaths,Deaths,E92000001,91.0
+2014,England,,,Undefined,Units,Number of Deaths,Deaths,E92000001,64.0
+2015,England,,,Undefined,Units,Number of Deaths,Deaths,E92000001,36.0
+2016,England,,,Undefined,Units,Number of Deaths,Deaths,E92000001,48.0
+2017,England,,,Undefined,Units,Number of Deaths,Deaths,E92000001,63.0
+2018,England,,,Undefined,Units,Number of Deaths,Deaths,E92000001,53.0
+2001,Wales,,,Undefined,Units,Number of Deaths,Deaths,W92000004,10.0
+2002,Wales,,,Undefined,Units,Number of Deaths,Deaths,W92000004,11.0
+2003,Wales,,,Undefined,Units,Number of Deaths,Deaths,W92000004,3.0
+2004,Wales,,,Undefined,Units,Number of Deaths,Deaths,W92000004,7.0
+2005,Wales,,,Undefined,Units,Number of Deaths,Deaths,W92000004,2.0
+2006,Wales,,,Undefined,Units,Number of Deaths,Deaths,W92000004,3.0
+2007,Wales,,,Undefined,Units,Number of Deaths,Deaths,W92000004,7.0
+2008,Wales,,,Undefined,Units,Number of Deaths,Deaths,W92000004,4.0
+2009,Wales,,,Undefined,Units,Number of Deaths,Deaths,W92000004,10.0
+2010,Wales,,,Undefined,Units,Number of Deaths,Deaths,W92000004,14.0
+2011,Wales,,,Undefined,Units,Number of Deaths,Deaths,W92000004,6.0
+2012,Wales,,,Undefined,Units,Number of Deaths,Deaths,W92000004,1.0
+2013,Wales,,,Undefined,Units,Number of Deaths,Deaths,W92000004,6.0
+2014,Wales,,,Undefined,Units,Number of Deaths,Deaths,W92000004,7.0
+2015,Wales,,,Undefined,Units,Number of Deaths,Deaths,W92000004,3.0
+2016,Wales,,,Undefined,Units,Number of Deaths,Deaths,W92000004,5.0
+2017,Wales,,,Undefined,Units,Number of Deaths,Deaths,W92000004,2.0
+2018,Wales,,,Undefined,Units,Number of Deaths,Deaths,W92000004,4.0
+2001,England,Male,,Undefined,Units,Number of Deaths,Deaths,E92000001,59.0
+2002,England,Male,,Undefined,Units,Number of Deaths,Deaths,E92000001,46.0
+2003,England,Male,,Undefined,Units,Number of Deaths,Deaths,E92000001,42.0
+2004,England,Male,,Undefined,Units,Number of Deaths,Deaths,E92000001,48.0
+2005,England,Male,,Undefined,Units,Number of Deaths,Deaths,E92000001,43.0
+2006,England,Male,,Undefined,Units,Number of Deaths,Deaths,E92000001,46.0
+2007,England,Male,,Undefined,Units,Number of Deaths,Deaths,E92000001,47.0
+2008,England,Male,,Undefined,Units,Number of Deaths,Deaths,E92000001,44.0
+2009,England,Male,,Undefined,Units,Number of Deaths,Deaths,E92000001,47.0
+2010,England,Male,,Undefined,Units,Number of Deaths,Deaths,E92000001,61.0
+2011,England,Male,,Undefined,Units,Number of Deaths,Deaths,E92000001,40.0
+2012,England,Male,,Undefined,Units,Number of Deaths,Deaths,E92000001,42.0
+2013,England,Male,,Undefined,Units,Number of Deaths,Deaths,E92000001,53.0
+2014,England,Male,,Undefined,Units,Number of Deaths,Deaths,E92000001,34.0
+2015,England,Male,,Undefined,Units,Number of Deaths,Deaths,E92000001,16.0
+2016,England,Male,,Undefined,Units,Number of Deaths,Deaths,E92000001,28.0
+2017,England,Male,,Undefined,Units,Number of Deaths,Deaths,E92000001,45.0
+2018,England,Male,,Undefined,Units,Number of Deaths,Deaths,E92000001,27.0
+2001,England,Female,,Undefined,Units,Number of Deaths,Deaths,E92000001,61.0
+2002,England,Female,,Undefined,Units,Number of Deaths,Deaths,E92000001,38.0
+2003,England,Female,,Undefined,Units,Number of Deaths,Deaths,E92000001,49.0
+2004,England,Female,,Undefined,Units,Number of Deaths,Deaths,E92000001,40.0
+2005,England,Female,,Undefined,Units,Number of Deaths,Deaths,E92000001,45.0
+2006,England,Female,,Undefined,Units,Number of Deaths,Deaths,E92000001,44.0
+2007,England,Female,,Undefined,Units,Number of Deaths,Deaths,E92000001,55.0
+2008,England,Female,,Undefined,Units,Number of Deaths,Deaths,E92000001,68.0
+2009,England,Female,,Undefined,Units,Number of Deaths,Deaths,E92000001,67.0
+2010,England,Female,,Undefined,Units,Number of Deaths,Deaths,E92000001,54.0
+2011,England,Female,,Undefined,Units,Number of Deaths,Deaths,E92000001,33.0
+2012,England,Female,,Undefined,Units,Number of Deaths,Deaths,E92000001,39.0
+2013,England,Female,,Undefined,Units,Number of Deaths,Deaths,E92000001,38.0
+2014,England,Female,,Undefined,Units,Number of Deaths,Deaths,E92000001,30.0
+2015,England,Female,,Undefined,Units,Number of Deaths,Deaths,E92000001,20.0
+2016,England,Female,,Undefined,Units,Number of Deaths,Deaths,E92000001,20.0
+2017,England,Female,,Undefined,Units,Number of Deaths,Deaths,E92000001,18.0
+2018,England,Female,,Undefined,Units,Number of Deaths,Deaths,E92000001,26.0
+2001,Wales,Male,,Undefined,Units,Number of Deaths,Deaths,W92000004,5.0
+2002,Wales,Male,,Undefined,Units,Number of Deaths,Deaths,W92000004,6.0
+2003,Wales,Male,,Undefined,Units,Number of Deaths,Deaths,W92000004,1.0
+2004,Wales,Male,,Undefined,Units,Number of Deaths,Deaths,W92000004,3.0
+2005,Wales,Male,,Undefined,Units,Number of Deaths,Deaths,W92000004,1.0
+2006,Wales,Male,,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2007,Wales,Male,,Undefined,Units,Number of Deaths,Deaths,W92000004,3.0
+2008,Wales,Male,,Undefined,Units,Number of Deaths,Deaths,W92000004,3.0
+2009,Wales,Male,,Undefined,Units,Number of Deaths,Deaths,W92000004,4.0
+2010,Wales,Male,,Undefined,Units,Number of Deaths,Deaths,W92000004,7.0
+2011,Wales,Male,,Undefined,Units,Number of Deaths,Deaths,W92000004,4.0
+2012,Wales,Male,,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2013,Wales,Male,,Undefined,Units,Number of Deaths,Deaths,W92000004,3.0
+2014,Wales,Male,,Undefined,Units,Number of Deaths,Deaths,W92000004,3.0
+2015,Wales,Male,,Undefined,Units,Number of Deaths,Deaths,W92000004,2.0
+2016,Wales,Male,,Undefined,Units,Number of Deaths,Deaths,W92000004,4.0
+2017,Wales,Male,,Undefined,Units,Number of Deaths,Deaths,W92000004,2.0
+2018,Wales,Male,,Undefined,Units,Number of Deaths,Deaths,W92000004,2.0
+2001,Wales,Female,,Undefined,Units,Number of Deaths,Deaths,W92000004,5.0
+2002,Wales,Female,,Undefined,Units,Number of Deaths,Deaths,W92000004,5.0
+2003,Wales,Female,,Undefined,Units,Number of Deaths,Deaths,W92000004,2.0
+2004,Wales,Female,,Undefined,Units,Number of Deaths,Deaths,W92000004,4.0
+2005,Wales,Female,,Undefined,Units,Number of Deaths,Deaths,W92000004,1.0
+2006,Wales,Female,,Undefined,Units,Number of Deaths,Deaths,W92000004,3.0
+2007,Wales,Female,,Undefined,Units,Number of Deaths,Deaths,W92000004,4.0
+2008,Wales,Female,,Undefined,Units,Number of Deaths,Deaths,W92000004,1.0
+2009,Wales,Female,,Undefined,Units,Number of Deaths,Deaths,W92000004,6.0
+2010,Wales,Female,,Undefined,Units,Number of Deaths,Deaths,W92000004,7.0
+2011,Wales,Female,,Undefined,Units,Number of Deaths,Deaths,W92000004,2.0
+2012,Wales,Female,,Undefined,Units,Number of Deaths,Deaths,W92000004,1.0
+2013,Wales,Female,,Undefined,Units,Number of Deaths,Deaths,W92000004,3.0
+2014,Wales,Female,,Undefined,Units,Number of Deaths,Deaths,W92000004,4.0
+2015,Wales,Female,,Undefined,Units,Number of Deaths,Deaths,W92000004,1.0
+2016,Wales,Female,,Undefined,Units,Number of Deaths,Deaths,W92000004,1.0
+2017,Wales,Female,,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2018,Wales,Female,,Undefined,Units,Number of Deaths,Deaths,W92000004,2.0
+2001,,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,0.0
+2002,,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,0.0
+2003,,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,1.0
+2004,,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,3.0
+2005,,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,1.0
+2006,,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,2.0
+2007,,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,1.0
+2008,,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,3.0
+2009,,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,1.0
+2010,,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,0.0
+2011,,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,1.0
+2012,,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,4.0
+2013,,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,1.0
+2014,,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,0.0
+2015,,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,3.0
+2016,,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,2.0
+2017,,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,8.0
+2018,,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,4.0
+2001,England,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,0.0
+2002,England,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,0.0
+2003,England,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,0.0
+2004,England,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,3.0
+2005,England,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,1.0
+2006,England,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,2.0
+2007,England,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,1.0
+2008,England,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,3.0
+2009,England,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,1.0
+2010,England,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,0.0
+2011,England,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,1.0
+2012,England,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,4.0
+2013,England,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,1.0
+2014,England,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,0.0
+2015,England,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,3.0
+2016,England,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,2.0
+2017,England,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,8.0
+2018,England,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,4.0
+2001,Wales,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2002,Wales,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2003,Wales,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,1.0
+2004,Wales,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2005,Wales,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2006,Wales,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2007,Wales,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2008,Wales,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2009,Wales,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2010,Wales,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2011,Wales,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2012,Wales,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2013,Wales,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2014,Wales,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2015,Wales,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2016,Wales,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2017,Wales,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2018,Wales,,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2001,,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,0.0
+2002,,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,0.0
+2003,,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,1.0
+2004,,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,1.0
+2005,,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,0.0
+2006,,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,2.0
+2007,,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,1.0
+2008,,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,3.0
+2009,,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,0.0
+2010,,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,0.0
+2011,,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,1.0
+2012,,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,3.0
+2013,,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,1.0
+2014,,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,0.0
+2015,,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,1.0
+2016,,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,2.0
+2017,,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,6.0
+2018,,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,3.0
+2001,,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,0.0
+2002,,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,0.0
+2003,,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,0.0
+2004,,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,2.0
+2005,,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,1.0
+2006,,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,0.0
+2007,,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,0.0
+2008,,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,0.0
+2009,,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,1.0
+2010,,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,0.0
+2011,,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,0.0
+2012,,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,1.0
+2013,,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,0.0
+2014,,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,0.0
+2015,,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,2.0
+2016,,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,0.0
+2017,,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,2.0
+2018,,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,,1.0
+2001,England,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,0.0
+2002,England,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,0.0
+2003,England,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,0.0
+2004,England,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,1.0
+2005,England,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,0.0
+2006,England,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,2.0
+2007,England,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,1.0
+2008,England,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,3.0
+2009,England,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,0.0
+2010,England,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,0.0
+2011,England,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,1.0
+2012,England,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,3.0
+2013,England,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,1.0
+2014,England,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,0.0
+2015,England,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,1.0
+2016,England,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,2.0
+2017,England,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,6.0
+2018,England,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,3.0
+2001,England,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,0.0
+2002,England,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,0.0
+2003,England,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,0.0
+2004,England,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,2.0
+2005,England,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,1.0
+2006,England,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,0.0
+2007,England,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,0.0
+2008,England,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,0.0
+2009,England,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,1.0
+2010,England,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,0.0
+2011,England,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,0.0
+2012,England,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,1.0
+2013,England,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,0.0
+2014,England,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,0.0
+2015,England,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,2.0
+2016,England,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,0.0
+2017,England,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,2.0
+2018,England,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,E92000001,1.0
+2001,Wales,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2002,Wales,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2003,Wales,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,1.0
+2004,Wales,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2005,Wales,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2006,Wales,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2007,Wales,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2008,Wales,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2009,Wales,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2010,Wales,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2011,Wales,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2012,Wales,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2013,Wales,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2014,Wales,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2015,Wales,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2016,Wales,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2017,Wales,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2018,Wales,Male,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2001,Wales,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2002,Wales,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2003,Wales,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2004,Wales,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2005,Wales,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2006,Wales,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2007,Wales,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2008,Wales,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2009,Wales,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2010,Wales,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2011,Wales,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2012,Wales,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2013,Wales,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2014,Wales,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2015,Wales,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2016,Wales,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2017,Wales,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
+2018,Wales,Female,Exposure to excessive natural heat,Undefined,Units,Number of Deaths,Deaths,W92000004,0.0
