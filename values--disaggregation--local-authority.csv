@@ -1,9 +1,9 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Aberdeen City,2,1
+Aberdeen City,4,2
 Adur,1,1
 Allerdale,1,1
 Amber Valley,1,1
-Armagh,2,1
+Armagh,4,2
 Arun,1,1
 Ashfield,1,1
 Ashford,1,1
@@ -12,33 +12,33 @@ Babergh,1,1
 Barking and Dagenham,1,1
 Barnet,1,1
 Barnsley,1,1
-Barnstaple,2,1
+Barnstaple,4,2
 Barrow-in-Furness,1,1
 Basildon,1,1
 Basingstoke and Deane,1,1
 Bassetlaw,1,1
 Bath and North East Somerset,1,1
 Bedford,1,1
-Belfast,2,1
+Belfast,4,2
 Bexley,1,1
-Birkenhead,2,1
-Birmingham,3,2
+Birkenhead,4,2
+Birmingham,5,3
 Blaby,1,1
 Blackburn with Darwen,1,1
-Blackpool,3,2
+Blackpool,5,3
 Bolsover,1,1
 Bolton,1,1
 Boston,1,1
-Bournemouth,3,2
+Bournemouth,5,3
 Bracknell Forest,1,1
 Bradford,1,1
 Braintree,1,1
 Breckland,1,1
 Brent,1,1
 Brentwood,1,1
-Brighton and Hove,3,2
+Brighton and Hove,5,3
 "Bristol, City of",1,1
-Bristol,2,1
+Bristol,4,2
 Broadland,1,1
 Bromley,1,1
 Bromsgrove,1,1
@@ -53,31 +53,31 @@ Cambridgeshire,1,1
 Camden,1,1
 Cannock Chase,1,1
 Canterbury,1,1
-Cardiff,2,1
-Carlisle,3,2
+Cardiff,4,2
+Carlisle,5,3
 Castle Point,1,1
 Central Bedfordshire,1,1
 Charnwood,1,1
 Chelmsford,1,1
 Cheltenham,1,1
-Chepstow,2,1
+Chepstow,4,2
 Cherwell,1,1
 Cheshire East,1,1
 Cheshire West and Chester,1,1
-Chesterfield,3,2
+Chesterfield,5,3
 Chichester,1,1
 Chiltern,1,1
 Chorley,1,1
 Christchurch,1,1
-City of Edinburgh,2,1
-City of London,3,2
+City of Edinburgh,4,2
+City of London,5,3
 Colchester,1,1
 Copeland,1,1
 Corby,1,1
 Cornwall,1,1
 Cotswold,1,1
 County Durham,1,1
-Coventry,3,2
+Coventry,5,3
 Craven,1,1
 Crawley,1,1
 Croydon,1,1
@@ -89,9 +89,9 @@ Daventry,1,1
 Derby,1,1
 Derbyshire Dales,1,1
 Derbyshire,1,1
-Derry,1,1
+Derry,2,2
 Devon,1,1
-Didcot,2,1
+Didcot,4,2
 Doncaster,1,1
 Dorset,1,1
 Dover,1,1
@@ -107,16 +107,16 @@ East Northamptonshire,1,1
 East Riding of Yorkshire,1,1
 East Staffordshire,1,1
 East Sussex,1,1
-Eastbourne,3,2
+Eastbourne,5,3
 Eastleigh,1,1
-Eccles,2,1
+Eccles,4,2
 Eden,1,1
 Elmbridge,1,1
 Enfield,1,1
 Epping Forest,1,1
 Epsom and Ewell,1,1
 Erewash,1,1
-Erith,2,1
+Erith,4,2
 Essex,1,1
 Exeter,1,1
 Fareham,1,1
@@ -127,13 +127,13 @@ Forest of Dean,1,1
 Fylde,1,1
 Gateshead,1,1
 Gedling,1,1
-Gibraltar,2,1
-Gillingham,2,1
-Glasgow City,2,1
+Gibraltar,4,2
+Gillingham,4,2
+Glasgow City,4,2
 Gloucester,1,1
 Gloucestershire,1,1
 Gosport,1,1
-Grangemouth,2,1
+Grangemouth,4,2
 Gravesham,1,1
 Great Yarmouth,1,1
 Greater Manchester (Met County),1,1
@@ -146,7 +146,7 @@ Hammersmith and Fulham,1,1
 Hampshire,1,1
 Harborough,1,1
 Haringey,1,1
-Harlington,2,1
+Harlington,4,2
 Harlow,1,1
 Harrogate,1,1
 Harrow,1,1
@@ -163,10 +163,10 @@ Hillingdon,1,1
 Hinckley and Bosworth,1,1
 Horsham,1,1
 Hounslow,1,1
-Hull,2,1
+Hull,4,2
 Huntingdonshire,1,1
 Hyndburn,1,1
-Inverness,2,1
+Inverness,4,2
 Ipswich,1,1
 Isle of Wight,1,1
 Isles of Scilly,1,1
@@ -176,29 +176,29 @@ Kent,1,1
 Kettering,1,1
 King's Lynn and West Norfolk,1,1
 "Kingston upon Hull, City of",1,1
-Kingston upon Hull,2,1
+Kingston upon Hull,4,2
 Kingston upon Thames,1,1
 Kirklees,1,1
 Knowsley,1,1
 Lambeth,1,1
 Lancashire,1,1
 Lancaster,1,1
-Leamington Spa,2,1
-Leeds,3,2
-Leicester,3,2
+Leamington Spa,4,2
+Leeds,5,3
+Leicester,5,3
 Leicestershire,1,1
 Lewes,1,1
 Lewisham,1,1
 Lichfield,1,1
 Lincoln,1,1
 Lincolnshire,1,1
-Liverpool,3,2
-Londonderry,2,1
+Liverpool,5,3
+Londonderry,4,2
 Luton,1,1
 Maidstone,1,1
 Maldon,1,1
 Malvern Hills,1,1
-Manchester,3,2
+Manchester,5,3
 Mansfield,1,1
 Medway,1,1
 Melton,1,1
@@ -208,15 +208,15 @@ Merton,1,1
 Mid Devon,1,1
 Mid Suffolk,1,1
 Mid Sussex,1,1
-Middlesbrough,3,2
+Middlesbrough,5,3
 Milton Keynes,1,1
 Mole Valley,1,1
 New Forest,1,1
 Newark and Sherwood,1,1
 Newcastle-under-Lyme,1,1
-Newcastle upon Tyne,3,2
+Newcastle upon Tyne,5,3
 Newham,1,1
-Newport,2,1
+Newport,4,2
 Norfolk,1,1
 North Devon,1,1
 North Dorset,1,1
@@ -231,28 +231,28 @@ North Tyneside,1,1
 North Warwickshire,1,1
 North West Leicestershire,1,1
 North Yorkshire,1,1
-Northampton,3,2
+Northampton,5,3
 Northamptonshire,1,1
 Northumberland,1,1
-Norwich,3,2
-Nottingham,3,2
+Norwich,5,3
+Nottingham,5,3
 Nottinghamshire,1,1
 Nuneaton and Bedworth,1,1
 Oadby and Wigston,1,1
 Oldham,1,1
-Oxford,3,2
+Oxford,5,3
 Oxfordshire,1,1
 Pendle,1,1
-Penicuik,2,1
+Penicuik,4,2
 Peterborough,1,1
-Plymouth,3,2
+Plymouth,5,3
 Poole,1,1
-Port Talbot,2,1
-Portsmouth,3,2
-Preston,3,2
-Prestonpans,1,1
+Port Talbot,4,2
+Portsmouth,5,3
+Preston,5,3
+Prestonpans,2,2
 Purbeck,1,1
-Reading,3,2
+Reading,5,3
 Redbridge,1,1
 Redcar and Cleveland,1,1
 Redditch,1,1
@@ -261,7 +261,7 @@ Ribble Valley,1,1
 Richmond upon Thames,1,1
 Richmondshire,1,1
 Rochdale,1,1
-Rochester,2,1
+Rochester,4,2
 Rochford,1,1
 Rossendale,1,1
 Rother,1,1
@@ -272,17 +272,17 @@ Rushcliffe,1,1
 Rushmoor,1,1
 Rutland,1,1
 Ryedale,1,1
-Salford,3,2
-Saltash,2,1
+Salford,5,3
+Saltash,4,2
 Sandwell,1,1
-Sandy,2,1
+Sandy,4,2
 Scarborough,1,1
-Scunthorpe,2,1
+Scunthorpe,4,2
 Sedgemoor,1,1
 Sefton,1,1
 Selby,1,1
 Sevenoaks,1,1
-Sheffield,3,2
+Sheffield,5,3
 Shropshire,1,1
 Slough,1,1
 Solihull,1,1
@@ -303,10 +303,10 @@ South Somerset,1,1
 South Staffordshire,1,1
 South Tyneside,1,1
 South Yorkshire (Met County),1,1
-Southampton,3,2
-Southend-on-Sea,3,2
+Southampton,5,3
+Southend-on-Sea,5,3
 Southwark,1,1
-Speke,2,1
+Speke,4,2
 Spelthorne,1,1
 St Albans,1,1
 St Edmundsbury,1,1
@@ -314,24 +314,24 @@ St. Helens,1,1
 Stafford,1,1
 Staffordshire Moorlands,1,1
 Staffordshire,1,1
-Stanford le Hope,2,1
-Stanmore,2,1
+Stanford le Hope,4,2
+Stanmore,4,2
 Stevenage,1,1
-Stockbridge,2,1
+Stockbridge,4,2
 Stockport,1,1
-Stockton-on-Tees,3,2
-Stoke-on-Trent,3,2
-Storrington,2,1
+Stockton-on-Tees,5,3
+Stoke-on-Trent,5,3
+Storrington,4,2
 Stratford-on-Avon,1,1
 Stroud,1,1
 Suffolk Coastal,1,1
 Suffolk,1,1
-Sunderland,3,2
+Sunderland,5,3
 Surrey Heath,1,1
 Surrey,1,1
 Sutton,1,1
 Swale,1,1
-Swansea,2,1
+Swansea,4,2
 Swindon,1,1
 Tameside,1,1
 Tamworth,1,1
@@ -344,7 +344,7 @@ Test Valley,1,1
 Tewkesbury,1,1
 Thanet,1,1
 Three Rivers,1,1
-Thurrock,3,2
+Thurrock,5,3
 Tonbridge and Malling,1,1
 Torbay,1,1
 Torridge,1,1
@@ -358,8 +358,8 @@ Wakefield,1,1
 Walsall,1,1
 Waltham Forest,1,1
 Wandsworth,1,1
-Warrington,3,2
-Warwick,3,2
+Warrington,5,3
+Warwick,5,3
 Warwickshire,1,1
 Watford,1,1
 Waveney,1,1
@@ -379,20 +379,20 @@ West Sussex,1,1
 West Yorkshire (Met County),1,1
 Westminster,1,1
 Weymouth and Portland,1,1
-Wigan,3,2
+Wigan,5,3
 Wiltshire,1,1
 Winchester,1,1
 Windsor and Maidenhead,1,1
-Wirral,3,2
+Wirral,5,3
 Woking,1,1
 Wokingham,1,1
 Wolverhampton,1,1
 Worcester,1,1
 Worcestershire,1,1
 Worthing,1,1
-Wrexham,2,1
+Wrexham,4,2
 Wychavon,1,1
 Wycombe,1,1
 Wyre Forest,1,1
 Wyre,1,1
-York,3,2
+York,5,3
