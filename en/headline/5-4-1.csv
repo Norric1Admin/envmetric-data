@@ -1,3 +1,35 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,Units,GeoCode,Observation status,Unit multiplier,Unit measure
+2001,2971293.728,Progress towards sustainable forest management (Hectares of woodland),,Undefined,Units,Hectares
+2002,2985420.755,Progress towards sustainable forest management (Hectares of woodland),,Undefined,Units,Hectares
+2003,,Progress towards sustainable forest management (Hectares of woodland),,Undefined,Units,Hectares
+2004,3011039.797,Progress towards sustainable forest management (Hectares of woodland),,Undefined,Units,Hectares
+2005,3021343.728,Progress towards sustainable forest management (Hectares of woodland),,Undefined,Units,Hectares
+2006,3029698.595,Progress towards sustainable forest management (Hectares of woodland),,Undefined,Units,Hectares
+2007,3040799.397,Progress towards sustainable forest management (Hectares of woodland),,Undefined,Units,Hectares
+2008,3047972.183,Progress towards sustainable forest management (Hectares of woodland),,Undefined,Units,Hectares
+2009,3054145.2939999998,Progress towards sustainable forest management (Hectares of woodland),,Undefined,Units,Hectares
+2010,3059238.28,Progress towards sustainable forest management (Hectares of woodland),,Undefined,Units,Hectares
+2011,3067314.0,Progress towards sustainable forest management (Hectares of woodland),,Undefined,Units,Hectares
+2012,3110492.68,Progress towards sustainable forest management (Hectares of woodland),,Undefined,Units,Hectares
+2013,3125309.9480000003,Progress towards sustainable forest management (Hectares of woodland),,Undefined,Units,Hectares
+2014,3143462.6560000004,Progress towards sustainable forest management (Hectares of woodland),,Undefined,Units,Hectares
+2015,3154583.93,Progress towards sustainable forest management (Hectares of woodland),,Undefined,Units,Hectares
+2016,3158980.4839999997,Progress towards sustainable forest management (Hectares of woodland),,Undefined,Units,Hectares
+2017,3163875.889,Progress towards sustainable forest management (Hectares of woodland),,Undefined,Units,Hectares
+2018,3173620.39,Progress towards sustainable forest management (Hectares of woodland),,Undefined,Units,Hectares
+2019,3187167.381,Progress towards sustainable forest management (Hectares of woodland),,Undefined,Units,Hectares
+2005,0.342205052,Progress towards sustainable forest management (Woodland growth rate),,Undefined,Units,Percentage (%)
+2006,0.276528216,Progress towards sustainable forest management (Woodland growth rate),,Undefined,Units,Percentage (%)
+2007,0.36639953399999997,Progress towards sustainable forest management (Woodland growth rate),,Undefined,Units,Percentage (%)
+2008,0.235884875,Progress towards sustainable forest management (Woodland growth rate),,Undefined,Units,Percentage (%)
+2009,0.20253175399999998,Progress towards sustainable forest management (Woodland growth rate),,Undefined,Units,Percentage (%)
+2010,0.166756495,Progress towards sustainable forest management (Woodland growth rate),,Undefined,Units,Percentage (%)
+2011,0.26397813,Progress towards sustainable forest management (Woodland growth rate),,Undefined,Units,Percentage (%)
+2012,1.407703287,Progress towards sustainable forest management (Woodland growth rate),,Undefined,Units,Percentage (%)
+2013,0.476364014,Progress towards sustainable forest management (Woodland growth rate),,Undefined,Units,Percentage (%)
+2014,0.58082906,Progress towards sustainable forest management (Woodland growth rate),,Undefined,Units,Percentage (%)
+2015,0.353790551,Progress towards sustainable forest management (Woodland growth rate),,Undefined,Units,Percentage (%)
+2016,0.139370338,Progress towards sustainable forest management (Woodland growth rate),,Undefined,Units,Percentage (%)
+2017,0.154967864,Progress towards sustainable forest management (Woodland growth rate),,Undefined,Units,Percentage (%)
+2018,0.307992521,Progress towards sustainable forest management (Woodland growth rate),,Undefined,Units,Percentage (%)
+2019,0.426862377,Progress towards sustainable forest management (Woodland growth rate),,Undefined,Units,Percentage (%)

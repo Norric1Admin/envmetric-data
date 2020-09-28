@@ -1,7 +1,41 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Country,Observation status,Unit multiplier,Unit measure,GeoCode,Value
+2010,"National recycling rate, tons of material recycled",,Undefined,Units,Percentage (%),,40.35801528
+2010,"National recycling rate, tons of material recycled",England,Undefined,Units,Percentage (%),E92000001,41.1734397
+2010,"National recycling rate, tons of material recycled",Northern Ireland,Undefined,Units,Percentage (%),N92000002,37.80825983
+2010,"National recycling rate, tons of material recycled",Scotland,Undefined,Units,Percentage (%),S92000003,32.49448497
+2010,"National recycling rate, tons of material recycled",Wales,Undefined,Units,Percentage (%),W92000004,44.005891600000005
+2011,"National recycling rate, tons of material recycled",,Undefined,Units,Percentage (%),,42.89484444
+2011,"National recycling rate, tons of material recycled",England,Undefined,Units,Percentage (%),E92000001,43.28533532
+2011,"National recycling rate, tons of material recycled",Northern Ireland,Undefined,Units,Percentage (%),N92000002,40.03483091
+2011,"National recycling rate, tons of material recycled",Scotland,Undefined,Units,Percentage (%),S92000003,37.08786473
+2011,"National recycling rate, tons of material recycled",Wales,Undefined,Units,Percentage (%),W92000004,48.96897518
+2012,"National recycling rate, tons of material recycled",,Undefined,Units,Percentage (%),,43.87180516
+2012,"National recycling rate, tons of material recycled",England,Undefined,Units,Percentage (%),E92000001,44.10693823
+2012,"National recycling rate, tons of material recycled",Northern Ireland,Undefined,Units,Percentage (%),N92000002,40.69742369
+2012,"National recycling rate, tons of material recycled",Scotland,Undefined,Units,Percentage (%),S92000003,38.23115688
+2012,"National recycling rate, tons of material recycled",Wales,Undefined,Units,Percentage (%),W92000004,52.11289388
+2013,"National recycling rate, tons of material recycled",,Undefined,Units,Percentage (%),,44.09334063
+2013,"National recycling rate, tons of material recycled",England,Undefined,Units,Percentage (%),E92000001,44.16304926
+2013,"National recycling rate, tons of material recycled",Northern Ireland,Undefined,Units,Percentage (%),N92000002,41.54283366
+2013,"National recycling rate, tons of material recycled",Scotland,Undefined,Units,Percentage (%),S92000003,39.64839619
+2013,"National recycling rate, tons of material recycled",Wales,Undefined,Units,Percentage (%),W92000004,52.53754728
+2014,"National recycling rate, tons of material recycled",,Undefined,Units,Percentage (%),,44.91551586
+2014,"National recycling rate, tons of material recycled",England,Undefined,Units,Percentage (%),E92000001,44.84529605
+2014,"National recycling rate, tons of material recycled",Northern Ireland,Undefined,Units,Percentage (%),N92000002,42.64584772
+2014,"National recycling rate, tons of material recycled",Scotland,Undefined,Units,Percentage (%),S92000003,40.95889142
+2014,"National recycling rate, tons of material recycled",Wales,Undefined,Units,Percentage (%),W92000004,54.78988288
+2015,"National recycling rate, tons of material recycled",,Undefined,Units,Percentage (%),,44.21825212
+2015,"National recycling rate, tons of material recycled",England,Undefined,Units,Percentage (%),E92000001,43.88077034
+2015,"National recycling rate, tons of material recycled",Northern Ireland,Undefined,Units,Percentage (%),N92000002,42.09160408
+2015,"National recycling rate, tons of material recycled",Scotland,Undefined,Units,Percentage (%),S92000003,42.02570991
+2015,"National recycling rate, tons of material recycled",Wales,Undefined,Units,Percentage (%),W92000004,55.48584117
+2016,"National recycling rate, tons of material recycled",,Undefined,Units,Percentage (%),,44.68210353
+2016,"National recycling rate, tons of material recycled",England,Undefined,Units,Percentage (%),E92000001,44.24169692
+2016,"National recycling rate, tons of material recycled",Northern Ireland,Undefined,Units,Percentage (%),N92000002,43.29923533
+2016,"National recycling rate, tons of material recycled",Scotland,Undefined,Units,Percentage (%),S92000003,42.77587457
+2016,"National recycling rate, tons of material recycled",Wales,Undefined,Units,Percentage (%),W92000004,56.71707566
+2017,"National recycling rate, tons of material recycled",,Undefined,Units,Percentage (%),,44.95923306
+2017,"National recycling rate, tons of material recycled",England,Undefined,Units,Percentage (%),E92000001,44.38389082
+2017,"National recycling rate, tons of material recycled",Northern Ireland,Undefined,Units,Percentage (%),N92000002,46.30639327
+2017,"National recycling rate, tons of material recycled",Scotland,Undefined,Units,Percentage (%),S92000003,43.40730383
+2017,"National recycling rate, tons of material recycled",Wales,Undefined,Units,Percentage (%),W92000004,57.081824899999994

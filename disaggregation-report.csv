@@ -1,7 +1,7 @@
 Disaggregation,Number of indicators,Number of values
 Category,1,2
 Cause of death,4,5
-Country,5,5
+Country,8,5
 Flight category,1,2
 Group,2,2
 Industry sector,1,20
@@ -9,5 +9,8 @@ Local Authority,2,397
 Material category,2,5
 Sex,4,2
 Size of particulate matter,1,1
-Status classification,1,2
-Water body category,1,3
+Status classification,2,2
+Sustainably managed status,1,1
+Sustainably managed status.1,1,2
+Unit measure.1,1,2
+Water body category,2,3

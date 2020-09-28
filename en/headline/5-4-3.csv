@@ -1,3 +1,5 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,Units,GeoCode,Observation status,Unit multiplier,Unit measure
+2015,35.19606899,Proportion of bodies of water with good ambient water quality,,Undefined,Units,Percentage (%)
+2016,34.87146391,Proportion of bodies of water with good ambient water quality,,Undefined,Units,Percentage (%)
+2017,35.11507851,Proportion of bodies of water with good ambient water quality,,Undefined,Units,Percentage (%)
+2018,35.41935484,Proportion of bodies of water with good ambient water quality,,Undefined,Units,Percentage (%)

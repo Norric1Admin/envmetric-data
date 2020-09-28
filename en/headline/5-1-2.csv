@@ -1,3 +1,9 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,Units,GeoCode,Observation status,Unit multiplier,Unit measure
+2010,40.35801528,"National recycling rate, tons of material recycled",,Undefined,Units,Percentage (%)
+2011,42.89484444,"National recycling rate, tons of material recycled",,Undefined,Units,Percentage (%)
+2012,43.87180516,"National recycling rate, tons of material recycled",,Undefined,Units,Percentage (%)
+2013,44.09334063,"National recycling rate, tons of material recycled",,Undefined,Units,Percentage (%)
+2014,44.91551586,"National recycling rate, tons of material recycled",,Undefined,Units,Percentage (%)
+2015,44.21825212,"National recycling rate, tons of material recycled",,Undefined,Units,Percentage (%)
+2016,44.68210353,"National recycling rate, tons of material recycled",,Undefined,Units,Percentage (%)
+2017,44.95923306,"National recycling rate, tons of material recycled",,Undefined,Units,Percentage (%)

@@ -1,3 +1,11 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,Units,Observation status,Unit multiplier
+2005,6.0,Water exploitation index (%),Undefined,Units
+2006,5.4,Water exploitation index (%),Undefined,Units
+2007,5.0,Water exploitation index (%),Undefined,Units
+2008,4.8,Water exploitation index (%),Undefined,Units
+2009,4.8,Water exploitation index (%),Undefined,Units
+2010,4.8,Water exploitation index (%),Undefined,Units
+2011,4.4,Water exploitation index (%),Undefined,Units
+2012,4.8,Water exploitation index (%),Undefined,Units
+2013,,Water exploitation index (%),Undefined,Units
+2014,4.2,Water exploitation index (%),Undefined,Units
