@@ -1,6 +1,8 @@
 Disaggregation,Number of indicators,Number of values
 Cause of death,4,5
-Country,8,5
+Country,9,5
+Energy category,1,6
+Energy sub-category,1,17
 Flight category,1,2
 Group,1,2
 Industry sector,1,20
